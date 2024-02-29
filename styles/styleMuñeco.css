@@ -1,0 +1,79 @@
+*{
+    margin: 25px;
+}
+#fondo{
+    border-radius: 80px;
+    margin-top: 50px;
+    border: solid;
+    width: 800px;
+    height: 800px;
+    background-color: aqua;
+}
+#cabeza{
+    
+    border: solid;
+    margin: auto;
+    border-radius: 100px;
+    width: 150px;
+    height: 150px;
+    background-color: rgb(215, 215, 226);
+    
+}
+#ojo{
+    float: left;
+    
+    border-radius: 50px;
+    width: 20px;
+    height: 20px;
+    background-color: black;
+}
+#ojo2{
+    float: right;
+    border-radius: 50px;
+    width: 20px;
+    height: 20px;
+    background-color: black;
+}
+#boca{
+    margin: 65px;
+    border-left: 80px solid #f0ad4e;
+    border-top: 40px ;
+    border-bottom: 40px solid transparent;
+}
+
+#torso{
+    border: solid;
+    margin: auto;
+    border-radius: 200px;
+    width: 260px;
+    height: 200px;
+    background-color: rgb(215, 215, 226);
+}
+#brazoiz{
+    margin: auto;
+    float: right;
+    margin-top: 20%;
+    
+    border-radius: 200px;
+    width: 100px;
+    height: 10px;
+    background-color: rgb(95, 76, 23);
+}
+#brazode{
+    margin: auto;
+    margin-top: 20%;
+    margin-left: 0%;
+    float: left;
+    border-radius: 200px;
+    width: 100px;
+    height: 10px;
+    background-color: rgb(95, 76, 23);
+}
+#parteInferior{
+    border: solid;
+    margin: auto;
+    border-radius: 200px;
+    width: 350px;
+    height: 250px;
+    background-color: rgb(215, 215, 226);
+}
